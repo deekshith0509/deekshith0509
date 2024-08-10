@@ -8,9 +8,14 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=zenburn)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=zenburn&utcOffset=5.30)
 
+
 <div align="center">
   
-    ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=transparent) 
+
+
+   ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=transparent)
+
+ 
 </div>
 
 ## Skills & Expertise
