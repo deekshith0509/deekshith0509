@@ -4,6 +4,7 @@
 I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. With a love for coding and a knack for solving complex problems, I dive into a variety of projects ranging from building intelligent bots to crafting efficient APIs. My goal is to create impactful solutions and contribute to the open-source community.
 
 ## GitHub Profile Summary
+
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=solarized)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=zenburn)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=zenburn&utcOffset=5.30)
@@ -11,7 +12,6 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 
 <div align="center">
   
-
 
    ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=transparent)
 
