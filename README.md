@@ -17,14 +17,14 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 
  
 </div>
-
 ## Skills & Expertise
-- **Programming Languages:** JavaScript, Python, Shell Scripting (Bash)
-- **Technologies:** GraphQL, RESTful APIs, MySQL, SQLite, WebSocket, Docker, Android SDK
-- **Specializations:** API Development, Bot Creation, Cloud Solutions, Database Management
+- **Programming Languages:** Python, JavaScript, Shell Scripting (Bash)
+- **Technologies:** GraphQL, RESTful APIs, MySQL, SQLite, WebSocket, Docker, Telegram API
+- **Specializations:** Bot Creation, API Development, File Metadata Management, Cloud Solutions, Database Management
 
 ## Projects & Contributions
-I work on a range of projects from advanced Telegram bots to robust API endpoints. Each project is a testament to my skills and dedication. Explore my repositories to see how I bring ideas to life and solve real-world problems.
+I focus on developing dynamic Telegram bots and creating extensive API endpoints. My work involves handling file metadata, implementing search functionalities, and managing admin operations. Each project demonstrates my capability to build scalable solutions and address real-world challenges effectively. Explore my repositories to see how I apply these skills to innovative projects.
+
 
 ## Get in Touch
 Feel free to connect with me for questions, collaborations, or just a chat about technology. You can reach me via:
