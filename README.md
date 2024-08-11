@@ -17,6 +17,7 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 
  
 </div>
+
 ## Skills & Expertise
 - **Programming Languages:** Python, JavaScript, Shell Scripting (Bash)
 - **Technologies:** GraphQL, RESTful APIs, MySQL, SQLite, WebSocket, Docker, Telegram API
