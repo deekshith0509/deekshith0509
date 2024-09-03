@@ -53,10 +53,9 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 
 ## 🚀 Projects & Contributions
 
-### 1. **[FilrForwardBot](https://github.com/deekshith0509/Fileforwardbot)**
+### 1. **[FileForwardBot](https://github.com/deekshith0509/Fileforwardbot)**
 An intelligent Telegram bot designed for file management and forwarding with advanced features.
 
-![FilrForwardBot](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/filrforwardbot.png)
 
 - **Languages:** Python
 - **Technologies:** Telegram API, Python-telegram-bot
@@ -65,7 +64,6 @@ An intelligent Telegram bot designed for file management and forwarding with adv
 ### 2. **[WebAppBot](https://github.com/deekshith0509/WebAppBot)**
 A versatile bot designed for web application interactions and management tasks.
 
-![WebAppBot](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/webappbot.png)
 
 - **Languages:** Python
 - **Technologies:** Flask, Python-telegram-bot
@@ -74,7 +72,6 @@ A versatile bot designed for web application interactions and management tasks.
 ### 3. **[Flower Detection](https://github.com/deekshith0509/FlowerDetection)**
 A machine learning project for detecting and classifying various types of flowers using image processing techniques.
 
-![Flower Detection](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/flower-detection.png)
 
 - **Languages:** Python
 - **Technologies:** TensorFlow, Keras, OpenCV
@@ -83,7 +80,6 @@ A machine learning project for detecting and classifying various types of flower
 ### 4. **[Bash Scripts](https://github.com/deekshith0509/Bash-Scripts)**
 A collection of useful bash scripts for automating various tasks and system management.
 
-![Bash Scripts](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/bash-scripts.png)
 
 - **Languages:** Bash
 - **Technologies:** Bash scripting
@@ -92,7 +88,6 @@ A collection of useful bash scripts for automating various tasks and system mana
 ### 5. **[Portfolio](https://deekshith0509.github.io/Portfolio.html)**
 A personal portfolio showcasing my projects, skills, and experiences.
 
-![Portfolio](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/portfolio.png)
 
 - **Languages:** HTML, CSS, JavaScript
 - **Technologies:** Static site generation, Responsive design
@@ -101,7 +96,6 @@ A personal portfolio showcasing my projects, skills, and experiences.
 ### 6. **[Miscellaneous](https://github.com/deekshith0509/deekshith0509.github.io)
 A repository containing various smaller projects and experiments.
 
-![Miscellaneous](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/misc.png)
 
 - **Languages:** Various
 - **Technologies:** Various
