@@ -53,7 +53,7 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 
 ## 🚀 Projects & Contributions
 
-### 1. **[FilrForwardBot](https://github.com/deekshith0509/FilrForwardBot)**
+### 1. **[FilrForwardBot](https://github.com/deekshith0509/Fileforwardbot)**
 An intelligent Telegram bot designed for file management and forwarding with advanced features.
 
 ![FilrForwardBot](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/filrforwardbot.png)
@@ -71,7 +71,7 @@ A versatile bot designed for web application interactions and management tasks.
 - **Technologies:** Flask, Python-telegram-bot
 - **Features:** Web interaction, Automated tasks, User notifications
 
-### 3. **[Flower Detection](https://github.com/deekshith0509/Flower-Detection)**
+### 3. **[Flower Detection](https://github.com/deekshith0509/FlowerDetection)**
 A machine learning project for detecting and classifying various types of flowers using image processing techniques.
 
 ![Flower Detection](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/flower-detection.png)
@@ -89,7 +89,7 @@ A collection of useful bash scripts for automating various tasks and system mana
 - **Technologies:** Bash scripting
 - **Features:** System automation, Task management, Utility scripts
 
-### 5. **[Portfolio](https://github.com/deekshith0509/Portfolio)**
+### 5. **[Portfolio](https://deekshith0509.github.io/Portfolio.html)**
 A personal portfolio showcasing my projects, skills, and experiences.
 
 ![Portfolio](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/portfolio.png)
@@ -98,7 +98,7 @@ A personal portfolio showcasing my projects, skills, and experiences.
 - **Technologies:** Static site generation, Responsive design
 - **Features:** Project display, Skills showcase, Contact information
 
-### 6. **[Miscellaneous](https://github.com/deekshith0509/Misc)**
+### 6. **[Miscellaneous](https://github.com/deekshith0509/deekshith0509.github.io)
 A repository containing various smaller projects and experiments.
 
 ![Miscellaneous](https://raw.githubusercontent.com/deekshith0509/deekshith0509/main/project-images/misc.png)
