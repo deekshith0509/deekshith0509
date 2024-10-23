@@ -19,7 +19,11 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deekshith0509&show_icons=true&locale=en&layout=compact&theme=dark)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&locale=en&theme=dark)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark)
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=dark" alt="GitHub Trophies" /></a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=darkhub&margin-w=0&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</a>
+
 [![Deekshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=merko)](https://github.com/deekshith0509/github-readme-activity-graph)
 
 
@@ -54,15 +58,15 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 [![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=for-the-badge&logoColor=white)](https://restfulapi.net/) 
 [![Fernet](https://img.shields.io/badge/Fernet-28A745?style=for-the-badge&logo=python&logoColor=white)](https://cryptography.io/en/latest/fernet/) 
 
-## 👩‍💻Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=Kivy-PyServer&theme=swift)](https://github.com/deekshith0509/Kivy-PyServer/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=TelegramMessageHub)](https://github.com/deekshith0509/TelegramMessageHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=deekshith0509.github.io)](https://github.com/deekshith0509/deekshith0509.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=todo-kivy)](https://github.com/deekshith0509/Todo-kivy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=blogs)](https://github.com/deekshith0509/Blogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=webapplication_bot)](https://github.com/deekshith0509/WebApplication_Bot)
+## 👩‍💻 Top Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=Kivy-PyServer&theme=dark)](https://github.com/deekshith0509/Kivy-PyServer/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=TelegramMessageHub&theme=dark)](https://github.com/deekshith0509/TelegramMessageHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=deekshith0509.github.io&theme=dark)](https://github.com/deekshith0509/deekshith0509.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=todo-kivy&theme=dark)](https://github.com/deekshith0509/Todo-kivy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=blogs&theme=dark)](https://github.com/deekshith0509/Blogs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=webapplication_bot&theme=dark)](https://github.com/deekshith0509/WebApplication_Bot)
 
 
 
