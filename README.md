@@ -5,15 +5,13 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
   <img src="https://komarev.com/ghpvc/?username=deekshith0509&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/deekshith0509?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/deekshith0509?label=Stars" alt="GitHub Stars" />
-</p>
-
+</p>    
 
 [![website](https://img.shields.io/badge/Portfolio-Deekshith0509-2648ff?style=flat-square&logo=google-chrome)](https://deekshith0509.github.io/Portfolio.html)
 
 ## GitHub Profile Summary
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=dark&utcOffset=5.30)
 
 
@@ -23,6 +21,10 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark)
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=dark" alt="GitHub Trophies" /></a>
 [![Deekshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=merko)](https://github.com/deekshith0509/github-readme-activity-graph)
+
+
+
+
 
 ## 🛠️ Skills & Expertise
 
@@ -51,6 +53,17 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) 
 [![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=for-the-badge&logoColor=white)](https://restfulapi.net/) 
 [![Fernet](https://img.shields.io/badge/Fernet-28A745?style=for-the-badge&logo=python&logoColor=white)](https://cryptography.io/en/latest/fernet/) 
+
+## 👩‍💻Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=Kivy-PyServer&theme=swift)](https://github.com/deekshith0509/Kivy-PyServer/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=TelegramMessageHub)](https://github.com/deekshith0509/TelegramMessageHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=deekshith0509.github.io)](https://github.com/deekshith0509/deekshith0509.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=todo-kivy)](https://github.com/deekshith0509/Todo-kivy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=blogs)](https://github.com/deekshith0509/Blogs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=webapplication_bot)](https://github.com/deekshith0509/WebApplication_Bot)
+
+
 
 
 ## 🏆 Coding Profiles
@@ -98,6 +111,7 @@ Feel free to connect with me for questions, collaborations, or just a chat about
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
 
 
 
