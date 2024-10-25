@@ -1,0 +1,336 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{parskip} % For spacing between paragraphs
+\usepackage{fontspec} % For custom fonts
+\usepackage{xcolor} % For colored text
+\usepackage{tabularx} % Enhanced tabular environment
+\usepackage{enumitem} % For customized lists
+\usepackage{titlesec} % For customizing section titles
+\usepackage{hyperref} % For clickable links
+\usepackage{multicol} % For multiple columns
+\usepackage{fontawesome5} % For social icons
+\usepackage[normalem]{ulem} % For underlining
+
+% Page margins and layout
+\usepackage[scale=0.9, top=.3in, bottom=.1in]{geometry}
+% Custom colors
+\definecolor{myblue}{HTML}{1C033C}
+\definecolor{mydarkblue}{HTML}{371e77}
+\definecolor{mylightpurple}{HTML}{4B28A4}
+% Configure hyperref to remove link borders
+\hypersetup{
+    colorlinks=true,      % Enable colored links
+    linkcolor=mydarkblue,       % Color for internal links
+    citecolor=mydarkblue,       % Color for citations
+    filecolor=mydarkblue,       % Color for file links
+    urlcolor=mydarkblue,        % Color for URLs
+    pdfborder={0 0 0},    % Remove border around links
+}
+
+
+% Custom section formatting
+\titleformat{\section}{\Large\scshape\color{myblue}\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{2pt}{2pt}
+
+\newcommand{\sectionheader}[2]{%
+    \begin{center}
+        \textcolor{myblue}{\Huge #1} \\[6pt]
+        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
+        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-bommarthi/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
+    \end{center}
+}
+
+% Custom command for entry in experience section
+\newcommand{\experienceentry}[5]{%
+    \begin{tabularx}{\linewidth}{@{}l r@{}}
+        \color{myblue} \textbf{#1} \hfill \color{mydarkblue} #2 \\[4pt]
+        \color{mydarkblue} \textit{#3} \hfill \color{mylightpurple} \textit{#4} \\[5pt]
+        \begin{minipage}[t]{\linewidth}
+            #5
+        \end{minipage}
+    \end{tabularx}
+}
+
+% Custom section formatting
+\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{2pt}{2pt}
+% Custom command for section headers with icon
+\newcommand{\sectionheader}[2]{%
+    \begin{center}
+        \vspace*{-\baselineskip} % Adjust vertical space before the section header
+        \textcolor{myblue}{\Huge #1} \\[6pt]
+        \vspace{-8pt} % Adjust vertical space after the section header
+        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
+        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-bommarthi/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
+    \end{center}
+}
+
+% Begin document
+\begin{document}
+
+% Title and contact information
+% Title and contact information
+\begin{center}
+    \parbox{\linewidth}{%
+        \centering
+        \sectionheader{\href{https://deekshith0509.github.io/Portfolio.html}{\textcolor{black}{Deekshith Bommarthi}}}{https://github.com/deekshith0509/} \\[2pt]
+        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faEnvelope} \href{mailto:deekshith.bh0509@gmail.com}{deekshith.bh0509@gmail.com}} $|$ 
+        \textcolor{mydarkblue}{\href{mailto:deekshith.bh7878@gmail.com}{deekshith.bh7878@gmail.com}} $|$ 
+        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faMobile} +91 8008565518} \\
+    }
+\end{center}
+
+
+
+
+
+
+\section*{Education}
+
+
+\begin{tabularx}{\linewidth}{@{} l r @{}}
+    \color{myblue} \textbf{Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad} & \hspace{1.3cm}  \color{mydarkblue} October 2021 - June 2025 \\[1pt] % Added 1pt space
+    \color{mydarkblue} B.Tech - Computer Science and Engineering &  \vspace{-10pt}\color{mylightpurple} \textit{GPA: 8.0/10} \\[10pt] % Space between entries
+    \color{myblue} \vspace{0pt}\textbf{Vishwa Chaitanya Junior College, Hyderabad} & \color{mydarkblue} June 2019 - June 2021 \\[1pt] % Added 1pt space
+    \color{mydarkblue} Intermediate Education - MPC & \color{mylightpurple} \textit{GPA: 9.78/10} \\
+\end{tabularx}
+
+
+% Custom command for skills entry
+\newcommand{\skillsentry}[2]{%
+    \textcolor{myblue}{\textbf{#1}} & \textcolor{mydarkblue}{#2} \\
+}
+% Custom command for skills entry
+\newcommand{\skillsentry}[2]{%
+    \textcolor{myblue}{\textbf{#1}} & \textcolor{mydarkblue}{#2} \\
+}
+\vspace{-14pt}
+% Skills section
+\section{Skills}
+\begin{tabularx}{\linewidth}{@{} l X @{}}
+    \textbf{Languages:} & Python, JavaScript, Bash, HTML5, CSS3. \\
+    \textbf{Technologies:} & TensorFlow, Keras, Streamlit, Bootstrap, AngularJS, Git, GitHub, Axios. \\
+    \textbf{Core Competencies:} & Interactive Web Development, Machine Learning, System Automation, API Integration. \\
+    \textbf{Soft Skills:} & Problem-Solving, Attention to Detail, Communication, Adaptability, Creativity. \\
+\end{tabularx}
+
+\vspace{11pt}
+
+
+% Custom command for project entry with button/link
+\newcommand{\projectentry}[5]{%
+    \noindent\vspace{1pt}
+    \textcolor{myblue}{\textbf{\href{#2}{#1}}} \textcolor{mydarkblue}{\href{#3}{\faLink}} \\ \vspace{-10pt}
+    \begin{itemize}[left=0pt, label=--, nosep]
+        \item \vspace{-10pt}\textbf{Overview:} #4
+    % comment    \item \textbf{Languages Used:} #5
+    \end{itemize}
+    \vspace{-13pt}% Adjust vertical spacing between project details
+}
+
+% Projects section with detailed descriptions
+
+\vspace{-13pt}
+\section{Projects}
+\vspace{0pt}
+\projectentry
+{Kivy Android Application for Cross-Platform File Sharing}
+{https://github.com/deekshith0509/Kivy-PyServer}
+{https://github.com/deekshith0509/Kivy-PyServer}
+{Innovative cross-platform file-sharing application for Linux, Windows, and Android, enhancing user experience and functionality over traditional HTTP servers:
+\begin{itemize}
+
+
+\item \textbf{User-Centric Design:} Enabled directory path input feature, simplifying the directory selection process for users.
+\item \textbf{Enhanced Directory Listings:} Created modern directory listings with search functionality for efficient navigation.
+\item \textbf{Robust File Handling:} Integrated upload and download features, enabling users to manage files and directories.
+
+
+\item \textbf{Secure File Access:} Improved security by sanitizing file names and handling directory permissions more efficiently.
+\end{itemize}
+}
+{Python, TensorFlow, Keras, Streamlit.}
+
+\vspace{10pt}
+\projectentry
+{Versatile Web Innovations}
+{https://deekshith0509.github.io}
+{https://github.com/deekshith0509/deekshith0509.github.io}
+{Discover my advanced frontend skills through diverse projects designed to enhance user experiences. This repository highlights my expertise across various areas of frontend development and design:
+\begin{itemize}
+\item \textbf{Frontend Development:} Mastered \textbf{HTML5}, \textbf{CSS3}, and \textbf{JavaScript} for responsive user interfaces.
+\item \textbf{Creative Problem Solving:} Developed dynamic storytelling and Tic-Tac-Toe with AI integration for fun.
+\item \textbf{User-Centric Design:} Focused on improving user interactions through tools like music players and color generators.
+\item \textbf{Efficient Deployment:} Utilized \textbf{Git} and \textbf{GitHub Pages} for seamless version control and management.
+\item \textbf{Continuous Learning:} Committed to exploring new technologies to enhance project capabilities and features.
+\end{itemize}
+}{HTML5, CSS3, JavaScript, jQuery, Bootstrap, AngularJS, Git.}
+
+\vspace{10pt}
+\projectentry
+{Automated Message Dispatcher}
+{https://github.com/deekshith0509/TelegramMessageHub}
+{https://github.com/deekshith0509/TelegramMessageHub}
+{A robust application designed for cloning group chats and forwarding messages on Telegram:
+\begin{itemize}
+\item \textbf{Caching and Batch Processing:} Efficiently caches messages and organizes them into JSON files for retrieval.
+\item \textbf{API Handling:} Implements robust retry mechanisms to manage API limits and prevent failures.
+\item \textbf{Cloning and Forwarding:} Clones group chats while preserving original hierarchy and message structure.
+\item \textbf{Real-Time Processing:} Supports cached and direct forwarding, ensuring messages maintain original order.
+\item \textbf{User-Friendly Interface:} Provides an intuitive interface for seamless interaction and message management.
+\end{itemize}
+}{} 
+
+
+\vspace{10pt}
+\projectentry
+{Advanced Telegram Bots}
+{https://github.com/deekshith0509?tab=repositories}
+{https://github.com/deekshith0509?tab=repositories}
+{Developed Telegram bots for diverse applications, using Python, JavaScript, SQLite, and cryptography:
+\begin{itemize}
+\item \textbf{\href{https://github.com/deekshith0509/MessageBroadcasting_Bot}{Message Broadcasting Bot:}} Built with \textbf{Python} and \textbf{SQLite}, it facilitates anonymous secret submissions, comments, likes, and broadcasts to subscribed users, ensuring privacy through encrypted storage.
+\item \textbf{\href{https://github.com/deekshith0509/WebApplication_Bot}{Web Application Bot:}} Developed using \textbf{JavaScript} and \textbf{Node.js}, it offers functionalities such as weather updates, quizzes, to-do list management, and currency conversion through an Express API and Telegram bot interface.
+\item \textbf{\href{https://github.com/deekshith0509/Fileforwardbot}{File Metadata Bot:}} Leveraging \textbf{Python} and \textbf{SQLite}, it manages file uploads in group chats, stores metadata, enables file searching and pagination, and provides admin functions for feedback handling and activity logging.
+\end{itemize}
+}{Python, SQLite, Telegram Bot API, Cryptography.}
+\vspace{10pt}
+
+
+\projectentry
+{Flower Detection using CNN}
+{https://github.com/deekshith0509/FlowerDetection}
+{https://github.com/deekshith0509/FlowerDetection}
+{Developed a CNN-based model for classifying flower species with key features:
+\begin{itemize}
+\item \textbf{Model Training:} Achieved 90\% accuracy with a CNN trained on a diverse Kaggle dataset, using data augmentation.
+    \item \textbf{Interactive Chatbot:} Integrated \textbf{FlowerBot}, increasing user interaction by 50\%.
+    \item \textbf{Real-Time Deployment:} Deployed using \textbf{Streamlit}, reducing image recognition time to under 2 seconds.
+    \item \textbf{Performance Metrics:} Evaluated using accuracy, precision, recall, improving model reliability by 15\%.
+\end{itemize}
+}
+{Python, TensorFlow, Keras, Streamlit.}
+
+\vspace{10pt}
+
+\iffalse
+\projectentry
+{Binaries Development Repository}
+{https://github.com/deekshith0509/Binary_Development}
+{https://github.com/deekshith0509/Binary_Development}
+{This repository showcases my ability to create standalone binaries from various types of scripts:
+\begin{itemize}
+\item \textbf{Binary Creation:} Converts shell scripts and Python code into binaries for easy distribution and use.
+\item \textbf{Source Code Security:} Binaries make original source code inaccessible, enhancing security and privacy measures.
+\item \textbf{Automation Scripts:} Features tools for web scraping, audio editing, and other daily automation tasks efficiently.
+\item \textbf{Diverse Tools:} Continuously updated with a wide range of applications to enhance productivity and workflow.
+\item \textbf{Cross-Platform Support:} Provides instructions for using Termux on Android to seamlessly run Linux tools.
+\end{itemize}
+}{Bash, Python, SHC, PyInstaller, Nuitka, Termux.}
+
+\vspace{8pt}
+\fi
+
+
+
+% Command for experience entry
+\newcommand{\experienceentry}[5]{%
+    \begin{tabularx}{\linewidth}{@{} X r @{}}
+        \color{myblue} \textbf{#1} & \color{mydarkblue} #2 \\
+        \color{mydarkblue} \textbf{#3} & \color{mydarkblue} #4 \\
+        \begin{minipage}[t]{\linewidth}
+            \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
+                #5
+            \end{itemize}
+        \end{minipage}
+    \end{tabularx}
+    \vspace{10pt}
+}
+
+% Custom section formatting
+\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{2pt}{2pt}
+
+
+% Custom command for entry in coding profiles section
+\newcommand{\codingprofileentry}[2]{%
+    \textcolor{myblue}{#1 :} \quad \textcolor{mydarkblue}{#2}
+}
+% Custom command for entry in coding profiles section
+\newcommand{\codingprofileentry}[2]{%
+    \textcolor{myblue}{#1 :} \quad \textcolor{mydarkblue}{#2}
+}
+% Command for certification entry
+\newcommand{\certificationentry}[2]{%
+    \begin{tabularx}{\linewidth}{@{} l X @{}}
+        \color{myblue} \textbf{#1} & \href{#2}{\uline{}} \\
+    \end{tabularx}
+    \vspace{1pt}
+}
+
+% Command for listing achievements and activities
+\newcommand{\achievements}[1]{%
+    \begin{tabularx}{\linewidth}{@{} X @{}}
+        \color{myblue} \textbf{Achievements} \\
+        \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
+            #1
+        \end{itemize}
+    \end{tabularx}
+    \vspace{-10pt}
+}
+
+% Command for listing achievements and activities
+\newcommand{\activities}[1]{%
+    \begin{tabularx}{\linewidth}{@{} X @{}}
+        \color{myblue} \textbf{Activities} \\
+        \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
+            #1
+        \end{itemize}
+    \end{tabularx}
+    \vspace{1pt}
+}
+% Custom section formatting
+\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{2pt}{2pt}
+
+% Custom command for section headers with icon
+\newcommand{\sectionheader}[2]{%
+    \begin{center}
+        \textcolor{myblue}{\Huge #1} \\[6pt]
+        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
+        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-b-1a09b9297/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
+    \end{center}
+}
+\vspace{2pt}
+\section{Coding Profiles}
+
+\begin{flushleft}
+\begin{tabular}{l l}
+    \textbf{Hackerrank} \texttt{:21241A05Z4 (6 Star Rating)} & \textbf{Leetcode} \hspace{17pt}\texttt{:user5777yx (Rating: 1805, 400+ problems)} \\
+    \textbf{Codechef}\hspace{14pt}\texttt{:deekshith2124 (Rating: 1565)} & \textbf{Interviewbit} \texttt{:deekshith-b\textunderscore 240 (Score: 24897+)} \\
+\end{tabular}
+\end{flushleft}
+\vspace{-1pt}
+
+
+\section{Certifications}
+
+
+\textrm{
+\hspace{-3pt}CyberSecurity - Specialization (Coursera), Juniper Virtual Cloud Networking (Learning Portal), Full Stack Web Development (Infosys SpringBoard), Google Android Developer (AICTE), Data Analytics with Python (NPTEL), Data Science for Engineers (NPTEL), AWS Data Engineering (AWS), Full Stack Web Development (Infosys), JNCIA Cloud (Juniper), Blender Course Certificate (Spoken Tutorials), DevNet (AWS), ITN-ENSA-SRWE (Cisco).
+}
+
+
+
+
+% Achievements and Activities section
+\section{Achievements and Activities}
+
+\vspace{5pt}
+\begin{itemize}
+
+    \item Engaged in Smart Interviews for advanced product training and industry knowledge enhancement.\vspace{-5pt}
+    \item Competed in major coding contests, demonstrating strong problem-solving and competitive programming skills.\vspace{-5pt}
+\end{itemize}
+
+\end{document}
