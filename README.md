@@ -65,7 +65,7 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=TelegramMessageHub&theme=dark)](https://github.com/deekshith0509/TelegramMessageHub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=deekshith0509.github.io&theme=dark)](https://github.com/deekshith0509/deekshith0509.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=todo-kivy&theme=dark)](https://github.com/deekshith0509/Todo-kivy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=blogs&theme=dark)](https://github.com/deekshith0509/Blogs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=Kivy-PyExecutor&theme=dark)](https://github.com/deekshith0509/Kivy-PyExecutor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=webapplication_bot&theme=dark)](https://github.com/deekshith0509/WebApplication_Bot)
 
 
