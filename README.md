@@ -49,14 +49,15 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en) 
 [![Axios](https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/docs/intro) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) 
-[![Kivy](https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logoColor=white)](https://kivy.org/doc/stable/) 
-[![KivyMD](https://img.shields.io/badge/KivyMD-3D61B2?style=for-the-badge&logoColor=white)](https://kivymd.readthedocs.io/en/latest/) 
-[![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Kivy](https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logo=python&logoColor=white)](https://kivy.org/doc/stable/)
+[![KivyMD](https://img.shields.io/badge/KivyMD-3D61B2?style=for-the-badge&logo=python&logoColor=white)](https://kivymd.readthedocs.io/en/latest/) 
+[![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) 
-[![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=for-the-badge&logoColor=white)](https://restfulapi.net/) 
-[![Fernet](https://img.shields.io/badge/Fernet-28A745?style=for-the-badge&logo=python&logoColor=white)](https://cryptography.io/en/latest/fernet/) 
+[![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=for-the-badge&logo=javascript&logoColor=white)](https://restfulapi.net/)
+[![Fernet](https://img.shields.io/badge/Fernet-28A745?style=for-the-badge&logo=python&logoColor=white)](https://cryptography.io/en/latest/fernet/)
+
 
 
 ## 👩‍💻 Top Repositories
