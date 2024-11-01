@@ -66,7 +66,6 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 [![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)](https://termux.dev/docs)
 [![Fernet](https://img.shields.io/badge/Fernet-28A745?style=for-the-badge&logo=python&logoColor=white)](https://cryptography.io/en/latest/fernet/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) 
-[![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=for-the-badge&logo=javascript&logoColor=white)](https://restfulapi.net/)
 
 
 
