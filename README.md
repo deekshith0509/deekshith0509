@@ -104,7 +104,6 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 - **ITN-ENSA-SRWE** (Cisco)
 - **SQL Advanced** (HackerRank)
 - **Software Engineering Intern** (HackerRank)
-- 
 
 ## 🏅 Achievements and Activities
 - **Advanced Product Training:** Participated in Smart Interviews to gain in-depth knowledge and industry insights.
