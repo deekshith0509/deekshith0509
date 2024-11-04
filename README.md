@@ -102,6 +102,7 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 - **Blender Course Certificate** (Spoken Tutorials)
 - **DevNet** (AWS)
 - **ITN-ENSA-SRWE** (Cisco)
+- **Smart-Coder-Diamond** (SmartInterviews)
 - **SQL Advanced** (HackerRank)
 - **Software Engineering Intern** (HackerRank)
 
