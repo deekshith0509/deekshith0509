@@ -1,6 +1,12 @@
-# Welcome to My GitHub Profile! 👋
+# 
+<div align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?weight=100&size=32&duration=3000&pause=6000&color=000000&width=835&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
+</div>
+
+
 ## About Me
-I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. With a love for coding and a knack for solving complex problems, I dive into a variety of projects ranging from building intelligent bots to crafting efficient APIs. My goal is to create impactful solutions and contribute to the open-source community.
+I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in building innovative solutions, from web apps to automating workflows and DevOps practices. Always striving to create impactful, scalable projects, I focus on application development, bot development, and automation. Eager to contribute to the open-source community, I continuously improve my skills in competitive programming.
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=deekshith0509&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/deekshith0509?label=Followers&style=social" alt="GitHub Followers" />
@@ -20,8 +26,8 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=dark&utcOffset=5.30)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&locale=en&theme=dark)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&locale=en&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark)
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=darkhub&margin-w=0&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </a>
