@@ -1,30 +1,52 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
 I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. With a love for coding and a knack for solving complex problems, I dive into a variety of projects ranging from building intelligent bots to crafting efficient APIs. My goal is to create impactful solutions and contribute to the open-source community.
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=deekshith0509&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/deekshith0509?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/deekshith0509?label=Stars" alt="GitHub Stars" />
-</p>    
+</p>  
 
-[![website](https://img.shields.io/badge/Portfolio-Deekshith0509-2648ff?style=flat-square&logo=google-chrome)](https://deekshith0509.github.io/Portfolio.html)
+<div align="center">
+  <a href="https://deekshith0509.github.io/Portfolio.html">
+    <img src="https://img.shields.io/badge/Portfolio-Deekshith0509-2648ff?style=flat-square&logo=google-chrome" alt="website">
+  </a>
+</div>
+
+
 
 ## GitHub Profile Summary
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=dark" alt="Profile Details">
+</div>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=dark&utcOffset=5.30)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=dark&utcOffset=5.30" alt="Productive Time">
+</div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=github_dark" alt="Top Languages">
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
+</div>
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deekshith0509&show_icons=true&locale=en&layout=compact&theme=dark)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&locale=en&theme=dark)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=dark" alt="GitHub Streak">
+</div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=darkhub&margin-w=0&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=darkhub&margin-w=0&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies">
+  </a>
+</div>
 
-[![Deekshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=merko)](https://github.com/deekshith0509/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/deekshith0509/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=merko" alt="Deekshith's github activity graph">
+  </a>
+</div>
 
 
 
@@ -43,21 +65,17 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 ### Technologies:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en) 
-[![Axios](https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/docs/intro) 
 [![Kivy](https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logo=python&logoColor=white)](https://kivy.org/doc/stable/)
 [![KivyMD](https://img.shields.io/badge/KivyMD-3D61B2?style=for-the-badge&logo=python&logoColor=white)](https://kivymd.readthedocs.io/en/latest/) 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/) 
 [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)](https://docs.angularjs.org/) 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) 
 [![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) 
-[![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.telethon.dev/) 
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script) 
 [![ADB and Fastboot](https://img.shields.io/badge/ADB%20and%20Fastboot-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio/command-line/adb) 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/documentation/) 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAD00?style=for-the-badge&logo=hugging-face&logoColor=white)](https://huggingface.co/docs/transformers/index) 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) 
 
@@ -99,6 +117,8 @@ I'm **Deekshith Bommarthi**, a passionate and innovative developer from India. W
 - **Smart-Coder-Diamond** (SmartInterviews)
 - **SQL Advanced** (HackerRank)
 - **Software Engineering Intern** (HackerRank)
+- **Continuous Integration and Delivery - DevOps** (Infosys SpringBoard)
+- **NDG Linux Essentials** (Cisco)
 
 ## 🏅 Achievements and Activities
 - **Advanced Product Training:** Participated in Smart Interviews to gain in-depth knowledge and industry insights.
