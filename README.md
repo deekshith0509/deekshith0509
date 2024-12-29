@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?weight=100&size=32&duration=3000&pause=6000&color=FFFFFF&width=835&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
-[View the PDF](RESUME.pdf)
-
 
 ## About Me
 I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in building innovative solutions, from web apps to automating workflows and DevOps practices. Always striving to create impactful, scalable projects, I focus on application development, bot development, and automation. Eager to contribute to the open-source community, I continuously improve my skills in competitive programming.
@@ -18,7 +16,12 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
   <a href="https://deekshith0509.github.io/Portfolio.html">
     <img src="https://img.shields.io/badge/Portfolio-Deekshith0509-2648ff?style=flat-square&logo=google-chrome" alt="website">
   </a>
+  
+  <a href="RESUME.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe-acrobat-reader" alt="Resume PDF">
+  </a>
 </div>
+
 
 
 
