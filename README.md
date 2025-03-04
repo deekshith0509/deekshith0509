@@ -114,7 +114,6 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
 - **Coding Competitions:** Competed in various coding contests on platforms like HackerRank, LeetCode, and CodeChef, consistently achieving high rankings.
 - **Project Contributions:** Developed and contributed to multiple projects, including intelligent Telegram bots and machine learning models, showcasing expertise in practical applications.
 - **Certifications:** Earned certifications in Cybersecurity, Full-Stack Web Development, and Data Analytics, demonstrating commitment to professional growth.
-- **Community Engagement:** Actively participated in coding communities and forums, helping others and sharing knowledge on programming topics.
 - **Research and Development:** Engaged in research projects, focusing on emerging technologies and their applications in real-world scenarios.
 
 
