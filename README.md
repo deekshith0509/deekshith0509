@@ -53,7 +53,7 @@ I'm passionate about creating impactful, scalable software solutions while conti
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=tokyonight&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=tokyonight&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" />
 </div>
 
 
@@ -70,7 +70,7 @@ I'm passionate about creating impactful, scalable software solutions while conti
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=tokyonight&column=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -84,12 +84,21 @@ I'm passionate about creating impactful, scalable software solutions while conti
   
   <h3>Frameworks & Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=django,docker,git,angular" />
-    <img src="https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logo=python&logoColor=white" height="48" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="48" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="48" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFAD00?style=for-the-badge&logo=huggingface&logoColor=white" height="48" />
-    <img src="https://img.shields.io/badge/Telegram_API-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="48" />
+<!-- Individual skill icons with tooltips -->
+<img src="https://skillicons.dev/icons?i=django" title="Django" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=angular" title="Angular" width="48" height="48" />
+
+<!-- Shields.io badges with tooltips -->
+<img src="https://img.shields.io/badge/Kivy-66B2B3?style=flat-square&logo=python&logoColor=white" height="48" title="Kivy (Python)" />
+<img src="https://img.shields.io/badge/-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="48" height="48" title="GitHub Actions" />
+<img src="https://img.shields.io/badge/-FFAD00?style=flat-square&logo=huggingface&logoColor=white" width="48" height="48" title="Hugging Face" />
+<img src="https://img.shields.io/badge/-0088CC?style=flat-square&logo=telegram&logoColor=white" width="48" height="48" title="Telegram API" />
+<img src="https://img.shields.io/badge/-34A853?style=flat-square&logo=google-apps-script&logoColor=white" width="48" height="48" title="Google Apps Script" />
+<img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=android&logoColor=white" width="48" height="48" title="ADB & Fastboot (Android Debug Bridge)" />
+
+
   </p>
 </div>
 
@@ -174,7 +183,7 @@ I'm passionate about creating impactful, scalable software solutions while conti
 <table align="center">
   <tr>
     <td align="center">
-      <img width="800" src="https://leetcard.jacoblin.cool/user5777yx?theme=dark&font=Noto%20Sans&ext=contest" alt="Leetcode Stats"/>
+      <img width="400" src="https://leetcard.jacoblin.cool/user5777yx?theme=dark&font=Noto%20Sans&ext=contest" alt="Leetcode Stats"/>
     </td>
   </tr>
 </table>
