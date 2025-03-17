@@ -1,11 +1,10 @@
 <p align="center">
-  
   <img src="https://readme-typing-svg.demolab.com?weight=100&size=32&duration=3000&pause=6000&color=FFFFFF&width=835&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/>
 </p>
 
-
 ## About Me
-I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in building innovative solutions, from web apps to automating workflows and DevOps practices. Always striving to create impactful, scalable projects, I focus on application development, bot development, and automation. Eager to contribute to the open-source community, I continuously improve my skills in competitive programming.
+I'm **Deekshith Bommarthi**, a Computer Science Engineering student at Gokaraju Rangaraju Institute of Engineering and Technology (GRIET) in Hyderabad, graduating in June 2025. I specialize in building innovative solutions across web applications, automation systems, and DevOps practices. My core strengths include Python development, web technologies, and system optimization. I'm passionate about creating impactful and scalable software solutions while continuously improving my competitive programming skills.
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=deekshith0509&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/deekshith0509?label=Followers&style=social" alt="GitHub Followers" />
@@ -16,17 +15,12 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
   <a href="https://deekshith0509.github.io/Portfolio.html">
     <img src="https://img.shields.io/badge/Portfolio-Deekshith0509-2648ff?style=flat-square&logo=google-chrome" alt="website">
   </a>
-  
   <a href="RESUME.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobe-acrobat-reader" alt="Resume PDF">
   </a>
 </div>
 
-
-
-
 ## GitHub Profile Summary
-
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=dark&utcOffset=5.30)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=github_dark)
@@ -37,10 +31,6 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
 </a>
 [![Deekshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=merko)](https://github.com/deekshith0509/github-readme-activity-graph)
 
-
-
-
-
 ## 🛠️ Skills & Expertise
 
 ### Programming Languages:
@@ -49,27 +39,52 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/) 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) 
 
-### Technologies:
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en) 
-[![Kivy](https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logo=python&logoColor=white)](https://kivy.org/doc/stable/)
-[![KivyMD](https://img.shields.io/badge/KivyMD-3D61B2?style=for-the-badge&logo=python&logoColor=white)](https://kivymd.readthedocs.io/en/latest/) 
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/) 
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)](https://docs.angularjs.org/) 
+### Frameworks & Technologies:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) 
-[![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api)
-[![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api) 
-[![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script) 
-[![ADB and Fastboot](https://img.shields.io/badge/ADB%20and%20Fastboot-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio/command-line/adb) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions) 
+[![Kivy](https://img.shields.io/badge/Kivy-66B2B3?style=for-the-badge&logo=python&logoColor=white)](https://kivy.org/doc/stable/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAD00?style=for-the-badge&logo=hugging-face&logoColor=white)](https://huggingface.co/docs/transformers/index) 
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html) 
+[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)](https://docs.angularjs.org/) 
+[![Telegram API](https://img.shields.io/badge/Telegram%20API-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/api)
+[![Buildozer](https://img.shields.io/badge/Buildozer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://buildozer.readthedocs.io/)
 
+## 📊 Key Projects
 
+### Advanced Python Server
+- Built a high-performance file-sharing server with **65% faster** transfer speeds
+- Developed a Kivy-based Android application for cross-device file access
+- Implemented custom UI that increased user engagement by **80%**
+- **Technologies**: Python, Kivy, Buildozer, JavaScript, HTML/CSS, GitHub Actions
 
+### MetroNavigator Web Application
+- Created a Django-based metro route optimizer reducing journey planning time by **70%**
+- Deployed with Docker containerization, decreasing setup time by **85%**
+- Implemented secure HTTPS data transfer protocols
+- **Technologies**: Python, Django, Docker, NetworkX, Dijkstra's Algorithm, Matplotlib
+
+### Versatile Web Innovations
+- Built 30+ web applications including development tools and media players
+- Reduced user task completion time by **80%** through interactive visualizations
+- Integrated 6+ external APIs with **95%** reliability
+- **Technologies**: JavaScript, AngularJS, HTML5, CSS3, API Integration
+
+### Automated Message Dispatcher
+- Programmed an asynchronous Telegram system handling 50,000+ messages with **78% faster** processing
+- Achieved **99.8%** data integrity through fault-tolerant storage
+- Reduced retrieval time by **65%** using distributed caching
+- **Technologies**: Python, Asyncio, Telethon, JSON
+
+### Advanced Telegram Bots
+- Developed 3 specialized Telegram bots increasing automation by **76%**
+- Created secure messaging platform with end-to-end encryption
+- Integrated multiple third-party APIs with asynchronous processing
+- Built comprehensive file management system with metadata indexing
+- **Technologies**: Python, Node.js, SQL, RESTful APIs, HTML/CSS/JavaScript
 
 ## 👩‍💻 Top Repositories
 
@@ -80,63 +95,48 @@ I'm **Deekshith Bommarthi**, a passionate developer from India. I specialize in 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=Kivy-PyExecutor&theme=dark)](https://github.com/deekshith0509/Kivy-PyExecutor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deekshith0509&repo=webapplication_bot&theme=dark)](https://github.com/deekshith0509/WebApplication_Bot)
 
-
-
 ## 🏆 Coding Profiles
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user5777yx)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/21241a05z4)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user5777yx)
+[![InterviewBit](https://img.shields.io/badge/-Interviewbit-2EC866?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/deekshith-b_240)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deekshith2124)
-[![Interviewbit](https://img.shields.io/badge/-Interviewbit-2EC866?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/deekshith-b_240)
 
-
+### Coding Achievements
+- **Leetcode**: Rating 1805, solved 400+ problems
+- **Hackerrank**: 6 Star Rating (username: 21241A05Z4)
+- **InterviewBit**: Score 24897+ (username: deekshith-b_240)
+- **CodeChef**: Rating 1565 (username: deekshith2124)
 
 ## 🎓 Certifications
 - **CyberSecurity - Specialization** (Coursera)
-- **Juniper Virtual Cloud Networking** (Learning Portal)
-- **Full Stack Web Development** (Infosys SpringBoard)
-- **Google Android Developer** (AICTE)
-- **Data Analytics with Python** (NPTEL)
-- **Data Science for Engineers** (NPTEL)
-- **AWS Data Engineering** (AWS)
-- **Full Stack Web Development** (Infosys)
-- **JNCIA Cloud** (Juniper)
-- **Blender Course Certificate** (Spoken Tutorials)
-- **DevNet** (AWS)
-- **ITN-ENSA-SRWE** (Cisco)
-- **Smart-Coder-Diamond** (SmartInterviews)
+- **DevOps - CI/CD** (Infosys)
 - **SQL Advanced** (HackerRank)
+- **Data Analytics with Python** (NPTEL)
+- **Google Android Developer Internship** (AICTE)
+- **Smart-Coder-Diamond** (SmartInterviews)
 - **Software Engineering Intern** (HackerRank)
-- **Continuous Integration and Delivery - DevOps** (Infosys SpringBoard)
+- **ITN-ENSA-SRWE** (Cisco)
 - **NDG Linux Essentials** (Cisco)
 
 ## 🏅 Achievements and Activities
-- **Advanced Product Training:** Participated in Smart Interviews to gain in-depth knowledge and industry insights.
-- **Coding Competitions:** Competed in various coding contests on platforms like HackerRank, LeetCode, and CodeChef, consistently achieving high rankings.
-- **Project Contributions:** Developed and contributed to multiple projects, including intelligent Telegram bots and machine learning models, showcasing expertise in practical applications.
-- **Certifications:** Earned certifications in Cybersecurity, Full-Stack Web Development, and Data Analytics, demonstrating commitment to professional growth.
-- **Research and Development:** Engaged in research projects, focusing on emerging technologies and their applications in real-world scenarios.
+- Maintained **17+ open-source projects** with **600+ GitHub contributions**
+- Solved **200+ deployment issues** by optimizing Android build processes
+- Developed automated system diagnostics tools using GitHub Actions
+- Ranked in **top 10%** on Leetcode with **400+ solved problems**
+- Active contributor to open-source projects and technical communities
 
-
----
 ## 🌐 Connect with Me
-Feel free to connect with me for questions, collaborations, or just a chat about technology. You can reach me via:
+Feel free to connect with me for questions, collaborations, or just a chat about technology:
 
 <p align="center">
   <a href="https://github.com/deekshith0509"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:deekshith.bh0509@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:deekshith.bh0509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/deekshith-bommarthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-
-
-
-**Let's code the future together!** 🚀<br>
-
-***Deekshith***
-
-
+**Let's code the future together!** 🚀  
+**Deekshith**
