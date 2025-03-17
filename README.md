@@ -53,9 +53,8 @@ I'm passionate about creating impactful, scalable software solutions while conti
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deekshith0509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=deekshith0509&theme=tokyonight&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&hide_border=true" />
 </div>
-
 
 
 
