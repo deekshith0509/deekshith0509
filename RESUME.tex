@@ -36,8 +36,8 @@
 \newcommand{\sectionheader}[2]{%
     \begin{center}
         \textcolor{myblue}{\Huge #1} \\[6pt]
-        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
-        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-bommarthi/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
+        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faGithub} \href{#2}{https://github.com/deekshith0509}} $|$
+        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faLinkedin} \href{https://www.linkedin.com/in/deekshith-bommarthi}{https://www.linkedin.com/in/deekshith-bommarthi}}
     \end{center}
 }
 
@@ -55,21 +55,12 @@
 % Custom section formatting
 \titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
 \titlespacing{\section}{0pt}{2pt}{2pt}
-% Custom command for section headers with icon
-\newcommand{\sectionheader}[2]{%
-    \begin{center}
-        \vspace*{-\baselineskip} % Adjust vertical space before the section header
-        \textcolor{myblue}{\Huge #1} \\[6pt]
-        \vspace{-8pt} % Adjust vertical space after the section header
-        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
-        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-bommarthi/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
-    \end{center}
-}
+
+
 
 % Begin document
 \begin{document}
 
-% Title and contact information
 % Title and contact information
 \begin{center}
     \parbox{\linewidth}{%
@@ -105,9 +96,9 @@
 \section{Technical Skills}
 \vspace{2.5pt}
 \begin{tabularx}{\linewidth}{@{} l X @{}}
-    \textbf{Programming Languages:} & Python, JavaScript, SQL, Bash. \\
+    \textbf{Programming Languages:} & Python, JavaScript, SQL, Bash, HTML, CSS. \\
     \vspace{2.5pt}
-    \textbf{Frameworks, Libraries \& DevOps:} & Django, Docker, Git, GitHub Actions, Streamlit, Hugging Face Transformers. \\
+    \textbf{Frameworks, Libraries \& DevOps:} & Django, Docker, Git, GitHub Actions, Kivy, Buildozer, Hugging Face Transformers, Asyncio, ADB and Fastboot. \\
     \vspace{2.5pt}
     \textbf{Core Competencies:} & Data Structures and Algorithms, API Integration, Web Development, System Automation. \\
     \vspace{2.5pt}
