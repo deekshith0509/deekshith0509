@@ -32,7 +32,7 @@
 
 <img align="right" alt="Coding Gif" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIyMzAwMTYsIm5iZiI6MTc0MjIyOTcxNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE3VDE2NDE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2MmY4MzQ5MjY0MWNlNDAyMjdlN2Y2MjRjMGQ5ZDI3OTYxZDEzMzNjMzg4Njg5MmMwNjdmZDhjZmJlYzkxYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.USRUCuQFPrli6JFGAEMLFGT3-N7WB6eJfJ5u-1MdDXg">
 
-I'm a Computer Science Engineering student at Gokaraju Rangaraju Institute of Engineering and Technology (GRIET) in Hyderabad, graduating in June 2025. I specialize in building innovative solutions across web applications, automation systems, and DevOps practices.
+I'm a passionate developer with a focus on Python and web technologies. I build solutions that make a difference, from high-performance file sharing servers to metro navigation systems and automated messaging platforms.
 
 My core strengths include:
 - 🚀 Python development and automation
@@ -40,7 +40,6 @@ My core strengths include:
 - ⚙️ System optimization and performance tuning
 - 🔧 DevOps practices and CI/CD pipelines
 
-I'm passionate about creating impactful, scalable software solutions while continuously improving my competitive programming skills and contributing to open-source projects.
 
 <br clear="right"/>
 
