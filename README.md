@@ -93,7 +93,7 @@ class DeekshithBommarthi:
 
 <details open>
 <summary><b>Advanced Python Server</b></summary>
-<br>
+
 
 **Technologies:** Python, Kivy, Buildozer, JavaScript, HTML/CSS, GitHub Actions (CI/CD)
 
@@ -103,12 +103,11 @@ A high-performance file-sharing server with cross-platform compatibility:
 - Created custom HTML/CSS interfaces that **increased user engagement by 80%** in testing
 - Implemented CI/CD pipelines with GitHub Actions for automated testing and deployment
 
-[View Project →](https://github.com/deekshith0509)
+[View Project →](https://github.com/deekshith0509/Kivy-PyServer)
 </details>
 
 <details>
 <summary><b>MetroNavigator Web Application</b></summary>
-<br>
 
 **Technologies:** Python, Django, Docker, NetworkX, Dijkstra's Algorithm, Matplotlib
 
@@ -118,12 +117,11 @@ A Django-based metro route optimizer with containerized deployment:
 - **Decreased deployment time by 85%** using Docker containerization for consistent environment setup
 - Secured data transfers with HTTPS protocols, achieving complete compliance with security standards
 
-[View Project →](https://github.com/deekshith0509)
+[View Project →](https://github.com/deekshith0509/MetroNavigator-WebApp)
 </details>
 
 <details>
 <summary><b>Automated Message Dispatcher</b></summary>
-<br>
 
 **Technologies:** Python, Asyncio, Telethon, JSON, Automation
 
@@ -133,7 +131,7 @@ An asynchronous Telegram messaging system with fault-tolerant architecture:
 - **Cut message retrieval time by 65%** using distributed caching architecture in high-volume simulations
 - Implemented advanced error handling and logging for improved system reliability
 
-[View Project →](https://github.com/deekshith0509)
+[View Project →](https://github.com/deekshith0509/TelegramMessageHub)
 </details>
 
 <details>
@@ -148,7 +146,7 @@ A suite of specialized Telegram bots with diverse functionalities:
 - Integrated multiple third-party APIs into a unified interface with **asynchronous processing**
 - Developed a comprehensive file management system with **metadata indexing and search capabilities**
 
-[View Project →](https://github.com/deekshith0509)
+[View Project →](https://github.com/deekshith0509?tab=repositories)
 </details>
 
 ## 📊 GitHub Analytics
@@ -160,6 +158,16 @@ A suite of specialized Telegram bots with diverse functionalities:
 
 <div align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=tokyonight&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=deekshith0509&theme=tokyonight&column=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ## 🏆 Achievements & Certifications
@@ -206,11 +214,4 @@ I'm currently seeking software development and DevOps opportunities. If you're l
 <div align="center">
   <a href="mailto:deekshith.bh0509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/deekshith-bommarthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+918008565518"><img src="https://img.shields.io/badge/Phone-167C80?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-  <i>"Building innovative solutions through code, one commit at a time."</i>
 </div>
