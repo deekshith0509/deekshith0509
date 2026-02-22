@@ -4,14 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Infosys+SAP+BTP+Unit;SAP+BTP+%7C+UI5%2FFiori+%7C+CAP+%7C+OData+%7C+XSUAA;MERN+Full+Stack+%7C+Python+%7C+DevOps;GenAI+on+BTP+%7C+RAG+%7C+SAP+Joule+Explorer" alt="Typing SVG"/>
-</div>
-
-<div align="center">
-  <a href="https://deekshith0509.github.io/Portfolio.html"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:deekshith.bh0509@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/deekshith-bommarthi"><img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/deekshith0509"><img src="https://img.shields.io/badge/GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=4000&color=0891B2&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Infosys+SAP+BTP+Unit;SAP+BTP+%7C+UI5%2FFiori+%7C+CAP+%7C+OData+%7C+XSUAA;MERN+Full+Stack+%7C+Python+%7C+DevOps;GenAI+on+BTP+%7C+RAG+%7C+SAP+Joule+Explorer" alt="Typing SVG"/>
 </div>
 
 ---
@@ -244,27 +237,26 @@ class DeekshithBommarthi:
     </tr>
   </table>
 </div>
----
-
-## 🤝 Let's Connect
-
-Open to collaborations, discussions, and learning opportunities.
-If you're working on something exciting, I'd love to connect!
-
-<div align="center">
-  <a href="mailto:deekshith.bh0509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/deekshith-bommarthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://deekshith0509.github.io/Portfolio.html"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div>
 
 ---
 
 <div align="center">
 
 🔥 *"Keep building, keep learning — your code will teach you more than any course ever could."*
-
-💡 *"Write it. Run it. Fix it. Learn from it. Repeat."*
-
 </div>
 
----
+
+```
+    def build():
+        try:
+            write()
+            run()
+        except Exception as error:
+            fix(error)
+        finally:
+            learn()
+        return build()
+
+    build()
+````
+
