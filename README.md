@@ -214,28 +214,15 @@ class DeekshithBommarthi:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=vision_friendly_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=vision_friendly_dark" width="100%"/>
 </div>
+<div align="center">
 
-<div align="center" width="100%">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=vision_friendly_dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deekshith0509&theme=vision_friendly_dark" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=vision_friendly_dark" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=vision_friendly_dark&utcOffset=8" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=vision_friendly_dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=vision_friendly_dark&utcOffset=8" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=vision_friendly_dark" width="48%" />
+
 </div>
 
 ---
@@ -247,16 +234,15 @@ class DeekshithBommarthi:
 
 
 ```
-    def build():
-        try:
-            write()
-            run()
-        except Exception as error:
-            fix(error)
-        finally:
-            learn()
-        return build()
+def build():
+    try:
+        write()
+        run()
+    except Exception as error:
+        fix(error)
+    finally:
+        learn()
+    return build()
 
-    build()
-````
-
+build()
+```
