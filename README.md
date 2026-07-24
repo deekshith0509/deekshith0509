@@ -46,9 +46,31 @@ class DeekshithBommarthi:
 
 | Role | Organization | Unit / Department | Duration |
 |------|-------------|------------------|----------|
-| **Software Engineer (DSE)** | Infosys Ltd. | SAP NTS BTP Unit, Pocharam DC | 2025 – Present |
-| **MERN Stack Trainee** | Infosys Mysuru | Full Stack Development Program | 3 Months |
+| **Software Engineer (DSE)** | Infosys Ltd. | SAP NTS BTP Unit, Pocharam DC | Jan 2026 – Present |
+| **SAP BTP Trainee** | Infosys, Chennai (Mahindra City) | SAP BTP Enablement | Nov – Dec 2025 |
+| **MERN Stack Trainee** | Infosys, Mysuru | Full Stack Development Program | Jul – Oct 2025 |
 | **B.Tech in CSE** | GRIET, Hyderabad | CGPA: 8.19 / 10 | 2021 – 2025 |
+
+---
+
+## 💼 Professional Experience
+
+### 🧑‍💻 Software Engineer (DSE) — Infosys Ltd. *(SAP NTS BTP Unit · Jan 2026 – Present)*
+
+Working on **GenAI-driven SAP BTP application development**, building and driving autonomous, AI-assisted engineering workflows end to end.
+
+* 🤖 **Autonomous artifact generation** — Built AI-driven pipelines that autonomously generate engineering artifacts (**Functional Specs, Technical Specs, Unit Test cases**) directly from business requirements, reducing manual authoring effort.
+* 🧩 **End-to-end application ownership** — Deliver full-stack SAP applications spanning **UI, backend data models, and integration layers**.
+* ✍️ **Prompt engineering & quality** — Design and iterate on prompts that drive the **accuracy and quality of generated documentation and code**.
+* 🔬 **Feature R&D → Implementation** — Research emerging capabilities and take them from proof-of-concept to production implementation.
+
+**🧾 Autonomous Invoice-Reversal Agent *(PoC)*** — Designed an **agentic AI system** that reverses invoices autonomously. The agent **recursively orchestrates tools and OData endpoints**, resolving dependencies step by step until the invoice is successfully reversed — no manual intervention required.
+
+### 📚 SAP BTP Trainee — Infosys, Chennai *(Nov – Dec 2025)*
+Enablement on **SAP BTP** — UI5/Fiori, CAP, OData, XSUAA, and Integration Suite.
+
+### 🚀 MERN Stack Trainee — Infosys, Mysuru *(Jul – Oct 2025)*
+Full-stack development program covering **MongoDB, Express, React, Node.js** and modern web engineering practices.
 
 ---
 
@@ -111,14 +133,58 @@ class DeekshithBommarthi:
 
 ## 🚀 Featured Projects
 
-### 🔹 EcoTrackify — Eco-Friendly Lifestyle Tracking Platform *(Capstone)*
+> *A selection of recent work — full list on my [repositories](https://github.com/deekshith0509?tab=repositories).*
 
-**Tech Stack:** MERN · JWT · Nodemailer · RBAC · Analytics
+### 🔹 TVRemoteIR — Native Infrared TV Remote for Android
 
-* Full-stack MERN application with JWT authentication, email verification & password reset
-* Role-Based Access Control (RBAC) + secure session management
-* Carbon footprint computation across Transportation, Energy & Waste categories
-* Business sustainability analytics dashboard for measurable environmental impact
+**Tech Stack:** Kotlin · Android IR Blaster API · NEC Protocol
+
+* Turns Android phones with an IR blaster (CVTE / Amlogic, NEC) into a full-featured TV remote
+* 100% offline — no network, no root, no accounts
+* Clean, JARVIS-styled UI built entirely in native Kotlin
+  🔗 [View Project](https://github.com/deekshith0509/TVRemoteIR)
+
+---
+
+### 🔹 TVSettingsPro — Power Toolbox for Android TV Boxes
+
+**Tech Stack:** Kotlin · Android 5.1 · System APIs
+
+* Advanced settings replacement and power-user toolbox for low-end Android TV boxes (CVTE / Amlogic)
+* Exposes hidden system controls with a modern interface — no root required
+* Pure Kotlin, optimized for constrained hardware
+  🔗 [View Project](https://github.com/deekshith0509/TVSettingsPro)
+
+---
+
+### 🔹 DroidServe — Android as a Local HTTP Server
+
+**Tech Stack:** Kotlin · Android HTTP Server
+
+* Turns any Android device into a wireless LAN file server
+* Browse, stream, and download files from any browser — no cloud, no cables, no accounts
+  🔗 [View Project](https://github.com/deekshith0509/DroidServe)
+
+---
+
+### 🔹 IT-Tools-Native — Offline Developer Utilities
+
+**Tech Stack:** JavaScript · Web
+
+* A native packaging of the popular IT-Tools developer-utility suite for fully offline use
+* Bundles encoders, converters, generators and formatters into a single self-contained app
+  🔗 [View Project](https://github.com/deekshith0509/IT-Tools-Native)
+
+---
+
+### 🔹 Portfolio — Single-File React Application
+
+**Tech Stack:** React · TypeScript · TailwindCSS
+
+* Modern, self-contained portfolio with dynamic GitHub Gist data loading
+* Responsive TailwindCSS UI, built-in dark mode, project filtering and inline SVG icons
+* Fast to deploy and fully single-file
+  🔗 [View Project](https://github.com/deekshith0509/portfolio)
 
 ---
 
@@ -126,42 +192,9 @@ class DeekshithBommarthi:
 
 **Tech Stack:** Django · Docker · NetworkX · Dijkstra's Algorithm
 
-* Implemented a graph-based shortest route optimizer
-* Achieved **70% reduction** in route computation time
-* Fully containerized using Docker for portability
+* Graph-based shortest-route optimizer with a **70% reduction** in journey-planning time (simulated)
+* Fully containerized with Docker for consistent, portable deployments
   🔗 [View Project](https://github.com/deekshith0509/MetroNavigator-WebApp)
-
----
-
-### 🔹 droidServe — Android as a Local HTTP Server
-
-**Tech Stack:** Kotlin · Jetpack · Android HTTP Server
-
-* Turn any Android device into a wireless LAN file server
-* Browse, stream, and download files from any browser — no cloud, no cables, no accounts
-  🔗 [View Project](https://github.com/deekshith0509/droidServe)
-
----
-
-### 🔹 Kivy APK Builder — Automated Android Build Pipeline
-
-**Tech Stack:** Docker · Buildozer · GitHub Actions
-
-* Automated complex Android build workflows using Docker
-* Provisioned toolchains and dependencies via Infrastructure-as-Code (IaC)
-* Standardized cross-platform build environment for reliable, reproducible APKs
-  🔗 [View Project](https://github.com/deekshith0509/docker-kivy-apk-builder)
-
----
-
-### 🔹 Advanced Python File Server
-
-**Tech Stack:** Python · Kivy · Buildozer · HTML/CSS · JavaScript
-
-* Developed a LAN-based file-sharing server with **65% faster transfer rate**
-* Integrated Android client using Kivy
-* Automated build pipeline with GitHub Actions
-  🔗 [View Project](https://github.com/deekshith0509/Kivy-PyServer)
 
 ---
 
@@ -169,9 +202,8 @@ class DeekshithBommarthi:
 
 **Tech Stack:** Python · Asyncio · Telethon
 
-* Automated **50K+ Telegram messages** with retry logic and async queues
-* Data-driven message caching architecture; graceful rate-limit handling
-* Resilient E2E Telegram integration with safe checkpoints
+* Automates **50K+ Telegram messages** with retry logic and async queues
+* Message caching architecture with graceful rate-limit handling and safe checkpoints
   🔗 [View Project](https://github.com/deekshith0509/TelegramMessageHub)
 
 ---
@@ -180,7 +212,7 @@ class DeekshithBommarthi:
 
 * 🥇 Placed in **Infosys SAP NTS BTP Unit** as **Software Engineer (DSE)**
 * 🧠 Solved **400+ LeetCode problems** — Rating 1805, Top 10%
-* 💻 Completed **20+ full-stack & automation projects**
+* 💻 Built & maintain **30+ open-source projects** spanning full-stack, native Android & automation
 * 🎓 Infosys Certified in **MERN Full Stack** & **SAP BTP AI and Automation**
 
 <details>
@@ -214,14 +246,14 @@ class DeekshithBommarthi:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=vision_friendly_dark" width="100%"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deekshith0509&theme=vision_friendly_dark" width="100%"/>
 </div>
 <div align="center">
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith0509&theme=vision_friendly_dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=vision_friendly_dark&utcOffset=8" width="48%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=vision_friendly_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deekshith0509&theme=vision_friendly_dark&utcOffset=8" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deekshith0509&theme=vision_friendly_dark" width="48%" />
 
 </div>
 

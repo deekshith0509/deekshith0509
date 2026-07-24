@@ -7,7 +7,6 @@
 \usepackage{enumitem} % For customized lists
 \usepackage{titlesec} % For customizing section titles
 \usepackage{hyperref} % For clickable links
-\usepackage{multicol} % For multiple columns
 \usepackage{fontawesome5} % For social icons
 \usepackage[normalem]{ulem} % For underlining
 \usepackage{setspace} % For setting line spacing
@@ -25,14 +24,19 @@
     filecolor=mydarkblue,       % Color for file links
     urlcolor=mydarkblue,        % Color for URLs
     pdfborder={0 0 0},    % Remove border around links
+    pdftitle={Deekshith Bommarthi - Resume},
+    pdfauthor={Deekshith Bommarthi},
 }
 % Set line spacing
-\setstretch{1.0} % Adjust the value as needed for more or less spacing
-\setmainfont{Times New Roman}% Replace with your desired font
-% Custom section formatting
-\titleformat{\section}{\Large\scshape\color{myblue}\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{2pt}{2pt}
+\setstretch{1.0}
+\setlength{\parskip}{1pt} % Tighten inter-paragraph spacing
+\setmainfont{Times New Roman} % Replace with your desired font
 
+% Custom section formatting (defined once)
+\titleformat{\section}{\large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{5pt}{2pt}
+
+% Header with name + social links
 \newcommand{\sectionheader}[2]{%
     \begin{center}
         \textcolor{myblue}{\Huge #1} \\[6pt]
@@ -41,308 +45,128 @@
     \end{center}
 }
 
-% Custom command for entry in experience section
+% Experience entry: {role}{date}{org/unit}{location}{bullets}
 \newcommand{\experienceentry}[5]{%
-    \begin{tabularx}{\linewidth}{@{}l r@{}}
-        \color{myblue} \textbf{#1} \hfill \color{mydarkblue} #2 \\[4pt]
-        \color{mydarkblue} \textit{#3} \hfill \color{mylightpurple} \textit{#4} \\[5pt]
-        \begin{minipage}[t]{\linewidth}
-            #5
-        \end{minipage}
-    \end{tabularx}
+    \noindent{\color{myblue}\textbf{#1}} \hfill {\color{mydarkblue}\textbf{#2}} \\[1pt]
+    {\color{mydarkblue}\textit{#3}} \hfill {\color{mylightpurple}\textit{#4}}
+    \begin{itemize}[left=0pt, label=--, nosep, itemsep=1pt, topsep=2pt]
+        #5
+    \end{itemize}
+    \vspace{1pt}
 }
 
-% Custom section formatting
-\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{2pt}{2pt}
-
-
+% Project entry: {name}{name-url}{link-url}{description}{tech}
+\newcommand{\projectentry}[5]{%
+    \vspace{2pt}
+    \noindent{\color{myblue}\textbf{\href{#2}{#1}}}~{\color{mydarkblue}\href{#3}{\faLink}}\hfill{\small\textbf{\color{mylightpurple}#5}}\\[1pt]
+    \noindent #4\par
+    \vspace{0pt}
+}
 
 % Begin document
 \begin{document}
 
 % Title and contact information
+\sectionheader{\href{https://deekshith0509.github.io/Portfolio.html}{\textcolor{black}{Deekshith Bommarthi}}}{https://github.com/deekshith0509/}
+\vspace{2pt}
 \begin{center}
-    \parbox{\linewidth}{%
-        \centering
-        \sectionheader{\href{https://deekshith0509.github.io/Portfolio.html}{\textcolor{black}{Deekshith Bommarthi}}}{https://github.com/deekshith0509/} \\[2pt]
-        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faEnvelope} \href{mailto:deekshith.bh0509@gmail.com}{deekshith.bh0509@gmail.com}} $|$ 
-        \textcolor{mydarkblue}{\href{mailto:deekshith.bh7878@gmail.com}{deekshith.bh7878@gmail.com}} $|$ 
-        \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faMobile} +91 8008565518} \\
-    }
+    \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faEnvelope} \href{mailto:deekshith.bh0509@gmail.com}{deekshith.bh0509@gmail.com}} $|$
+    \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faMobile} +91 8008565518} $|$
+    \textcolor{mydarkblue}{\raisebox{-0.05\height}{\faGlobe} \href{https://deekshith0509.github.io/Portfolio.html}{Portfolio}}
 \end{center}
 
+\vspace{2pt}
+{\color{myblue} Software Engineer at Infosys (SAP BTP unit) specializing in GenAI-driven SAP application development and autonomous AI agents; experienced across full-stack web, native Android, and system automation.}
 
-\section*{Education}
-\vspace{5pt}
+\section{Experience}
 
-\begin{tabularx}{\linewidth}{@{} l r @{}}
-    \color{myblue} \textbf{Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad} & \hspace{3.5cm}  \color{mydarkblue} October 2021 - June 2025 \\[1pt] % Added 1pt space
-    \color{mydarkblue} B.Tech - Computer Science and Engineering &  \vspace{-10pt}\color{mylightpurple} \textit{CGPA: 8.19/10} \\[10pt] % Space between entries
+\experienceentry
+    {Software Engineer (Digital Specialist Engineer)}
+    {Jan 2026 -- Present}
+    {Infosys Ltd. -- SAP NTS BTP Unit, Pocharam DC}
+    {Hyderabad, India}
+    {
+        \item Built GenAI pipelines that autonomously generate engineering artifacts -- Functional Specs, Technical Specs, and Unit Test cases -- from business requirements, reducing manual authoring effort.
+        \item Delivered end-to-end SAP BTP applications spanning UI, backend data models, and integration layers; engineered LLM prompts driving the accuracy and quality of generated documentation and code.
+        \item Designed an autonomous \textbf{agentic AI system for invoice reversal} that recursively orchestrates tools and OData endpoints to resolve dependencies until each invoice is successfully reversed.
+        \item Drove feature R\&D, taking new capabilities from proof-of-concept to production implementation.
+    }
 
-\end{tabularx}
+\experienceentry
+    {Software Engineering Trainee}
+    {Jul 2025 -- Dec 2025}
+    {Infosys Ltd. -- MERN Full-Stack (Mysuru) \& SAP BTP Enablement (Chennai)}
+    {India}
+    {
+        \item Completed structured enablement in MERN full-stack development and the SAP BTP stack (CAP, UI5/Fiori, OData, XSUAA), building hands-on projects prior to project allocation.
+    }
 
-
-% Custom command for skills entry
-\newcommand{\skillsentry}[2]{%
-    \textcolor{myblue}{\textbf{#1}} & \textcolor{mydarkblue}{#2} \\
-}
-% Custom command for skills entry
-\newcommand{\skillsentry}[2]{%
-    \textcolor{myblue}{\textbf{#1}} & \textcolor{mydarkblue}{#2} \\
-}
-\vspace{-3pt}
-% Skills section
 \section{Technical Skills}
-\vspace{2.5pt}
 \begin{tabularx}{\linewidth}{@{} l X @{}}
-    \textbf{Programming Languages:} & Python, JavaScript, SQL, Bash. \\
-    \vspace{2.5pt}
-    \textbf{Frameworks, Libraries \& DevOps:} & Django, Docker, Git, GitHub Actions, Kivy, Buildozer, Hugging Face Transformers, Asyncio, ADB and Fastboot. \\
-    \vspace{2.5pt}
-    \textbf{Core Competencies:} & Data Structures and Algorithms, Web and Application Development, System Automation. \\
-    \vspace{2.5pt}
-    \textbf{Soft Skills:} & Problem-Solving, Project Management, Adaptability, Time Management, Collaboration, Communication. \\
+    \textbf{Programming Languages:} & Python, JavaScript, TypeScript, Kotlin, SQL, Bash. \\
+    \vspace{1.5pt}
+    \textbf{SAP BTP \& GenAI:} & SAP CAP (Node.js), UI5/Fiori, OData, XSUAA, SAP AI Core, Integration Suite; LLM Prompt Engineering, RAG, Agentic \& Autonomous AI Agents. \\
+    \vspace{1.5pt}
+    \textbf{Frameworks \& Libraries:} & Django, React, Node.js, Jetpack Compose, Android NDK/JNI, Docker, Git, GitHub Actions (CI/CD), Asyncio, Buildozer. \\
+    \vspace{1.5pt}
+    \textbf{Databases:} & SAP HANA, MongoDB, SQL, SQLite. \\
+    \vspace{1.5pt}
+    \textbf{Core Competencies:} & Data Structures \& Algorithms, Full-Stack Development, Native Android Development, System Automation, Microservices. \\
+    \vspace{1.5pt}
+    \textbf{Soft Skills:} & Problem-Solving, Communication, Adaptability, Collaboration, Time Management. \\
 \end{tabularx}
 
-\vspace{-5pt}
-
-% Custom command for project entry with button/link
-\newcommand{\projectentry}[5]{%
-    \noindent\vspace{5pt}
-    \textcolor{myblue}{\textbf{\href{#2}{#1}}} \textcolor{mydarkblue}{\href{#3}{\faLink}} % Link right next to project name
-    \hfill {\small\textbf{\textcolor{mylightpurple}{#5}}} \\ \vspace{-10pt} % Technologies aligned to the right
-
-    \begin{itemize}[left=0pt, label=--, nosep]
-        \item \vspace{-10pt}\textbf{Overview:} #4
-    \end{itemize}
-    \vspace{0pt} % Adjust vertical spacing between project details
-}
-
-% Projects section with detailed descriptions
-
-\vspace{-3pt}
 \section{\href{https://github.com/deekshith0509?tab=repositories}{Projects}}
 
-\vspace{5pt}
 \projectentry
-    {Advanced Python Server}
-    {https://github.com/deekshith0509/Kivy-PyServer}
-    {https://github.com/deekshith0509/Kivy-PyServer} 
-    {Built a Python file-sharing server that improved transfer speeds by 65\% compared to traditional methods.
-    \begin{itemize}
-        \item Developed a Kivy-based Android application allowing seamless file access across 5+ device types.
-        \item Designed custom HTML/CSS interfaces that increased user engagement metrics by 80\% in testing.
-    \end{itemize}}{Python, Kivy, Buildozer, JavaScript, HTML, CSS, \textbf{GitHub Actions (CI/CD)}.}
+    {FrameFlow Player -- Advanced Android Video Player}
+    {https://github.com/deekshith0509}
+    {https://github.com/deekshith0509}
+    {Native Android video player integrating \texttt{libmpv} with VapourSynth/svpflow for real-time frame interpolation (SVP-class smoothing). Bridged C/C++ media libraries to Kotlin via JNI/NDK (OpenGL ES rendering) with a Jetpack Compose (Material You) gesture UI and an adaptive quality ladder.}{Kotlin, Jetpack Compose, C/C++ (JNI/NDK), libmpv, VapourSynth, Python.}
 
 \projectentry
-{MetroNavigator Web Application}
-{https://github.com/deekshith0509/MetroNavigator-WebApp}
-{https://github.com/deekshith0509/MetroNavigator-WebApp}
-{Created a Django metro route optimizer that reduced journey planning time by 70\% in simulated tests.
-\begin{itemize}
-    \item Decreased deployment time by 85\% using Docker containerization for consistent environment setup.
-    \item Secured data transfers with HTTPS protocols, achieving complete compliance with security standards.
-\end{itemize}  
-}{Python, Django, Docker, NetworkX, Dijkstra’s Algorithm, Matplotlib, JavaScript, HTML.}
+    {Shizuku Toolbox -- Privileged Android System Toolbox}
+    {https://github.com/deekshith0509}
+    {https://github.com/deekshith0509}
+    {No-root system utility leveraging the Shizuku (ADB-level) API for privileged Android operations -- bloatware removal, runtime permission and AppOps management, timed permission grants, a secure-settings editor, and a screen color-filter overlay service.}{Kotlin, Jetpack Compose, Shizuku API, Android AIDL/IPC.}
 
 \projectentry
-{Versatile Web Innovations}
-{https://deekshith0509.github.io}
-{https://github.com/deekshith0509/deekshith0509.github.io}
-{Built 30+ web applications including development tools and media players as self-directed projects.
-\begin{itemize}
-    \item Reduced user task completion time by 80\% through implementation of real-time editors and interactive algorithm visualizations across multiple applications.
-    \item Integrated 6+ external APIs for services like currency conversion and translation with 95\% reliability.
-\end{itemize}  
-}{JavaScript, AngularJS, HTML5, CSS3, Git, API Integration.}
-
+    {TvToolsPro -- Open-Source Android TV Control Suite}
+    {https://github.com/deekshith0509}
+    {https://github.com/deekshith0509}
+    {Open-source Android TV management suite with a client--server architecture and REST API for remote device control; reverse-engineered an existing closed-source tool to design a feature-complete, unrestricted open alternative.}{Kotlin, Jetpack Compose, REST API, ADB, Ktor.}
 
 \projectentry
-{Automated Message Dispatcher}
-{https://github.com/deekshith0509/TelegramMessageHub}
-{https://github.com/deekshith0509/TelegramMessageHub}
-{Programmed an asynchronous Telegram message system handling 50,000+ messages with 78\% faster processing. 
-\begin{itemize}
-    \item Achieved 99.8\% data integrity through a fault-tolerant JSON-based storage pipeline.
-    \item Cut message retrieval time by 65\% using distributed caching architecture in high-volume simulations.
-\end{itemize}  
-}{Python, Asyncio, Telethon, JSON, Automation.}
+    {MetroNavigator Web Application}
+    {https://github.com/deekshith0509/MetroNavigator-WebApp}
+    {https://github.com/deekshith0509/MetroNavigator-WebApp}
+    {Django metro route optimizer (Dijkstra over a NetworkX graph) that cut journey-planning time by 70\% in simulated tests, with Docker containerization reducing deployment setup time by 85\%.}{Python, Django, Docker, NetworkX, Dijkstra's Algorithm, JavaScript.}
 
-\projectentry
-{Advanced Telegram Bots}
-{https://github.com/deekshith0509?tab=repositories}
-{https://github.com/deekshith0509?tab=repositories}
-{Designed and developed 3 specialized Telegram bots with diverse functionalities, increasing automation by 76\%.
-\begin{itemize}
-    \vspace{2pt}
-    \item \href{https://github.com/deekshith0509/MessageBroadcasting_Bot}{Message Broadcasting Bot:} Built a secure messaging platform with end-to-end encryption and anonymous routing.
-    \vspace{2pt}
-    \item \href{https://github.com/deekshith0509/WebApplication_Bot}{Web Application Bot:} Integrated multiple third-party APIs into a unified interface with asynchronous processing.
-    \vspace{2pt}
-    \item \href{https://github.com/deekshith0509/Fileforwardbot}{File Sharing Bot:} Developed a comprehensive file management system with metadata indexing and search capabilities.
-\end{itemize}  
-}{Python, Node.js, SQL, RESTful API Development \& Integration, HTML, CSS, JavaScript.}
+\section{Education}
+\begin{tabularx}{\linewidth}{@{} l r @{}}
+    \color{myblue} \textbf{Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad} & \color{mydarkblue} October 2021 -- June 2025 \\[1pt]
+    \color{mydarkblue} B.Tech -- Computer Science and Engineering & \color{mylightpurple} \textit{CGPA: 8.19/10} \\
+\end{tabularx}
 
-
-
-
-
-
-\vspace{10pt}
-
-\iffalse  % Comments Synatx beginning
-\projectentry
-{Flower Detection using CNN}
-{https://github.com/deekshith0509/FlowerDetection}
-{https://github.com/deekshith0509/FlowerDetection}
-{Developed a CNN-based model for classifying flower species with key features:
-\begin{itemize}
-\item \textbf{Model Training:} Achieved 90\% accuracy with a CNN trained on a diverse Kaggle dataset, using data augmentation.
-    \item \textbf{Interactive Chatbot:} Integrated \textbf{FlowerBot}, increasing user interaction by 50\%.
-    \item \textbf{Real-Time Deployment:} Deployed using \textbf{Streamlit}, reducing image recognition time to under 2 seconds.
-    \item \textbf{Performance Metrics:} Evaluated using accuracy, precision, recall, improving model reliability by 15\%.
-\end{itemize}
-}
-{Python, TensorFlow, Keras, Streamlit.}
-
-\vspace{10pt}
-
-
-\projectentry
-{Binaries Development Repository}
-{https://github.com/deekshith0509/Binary_Development}
-{https://github.com/deekshith0509/Binary_Development}
-{This repository showcases my ability to create standalone binaries from various types of scripts:
-\begin{itemize}
-\item \textbf{Binary Creation:} Converts shell scripts and Python code into binaries for easy distribution and use.
-\item \textbf{Source Code Security:} Binaries make original source code inaccessible, enhancing security and privacy measures.
-\item \textbf{Automation Scripts:} Features tools for web scraping, audio editing, and other daily automation tasks efficiently.
-\item \textbf{Diverse Tools:} Continuously updated with a wide range of applications to enhance productivity and workflow.
-\item \textbf{Cross-Platform Support:} Provides instructions for using Termux on Android to seamlessly run Linux tools.
-\end{itemize}
-}{Bash, Python, SHC, PyInstaller, Nuitka, Termux.}
-
-\vspace{8pt}
-\fi   % Comments Synatx beginning
-
-
-
-
-
-% Command for experience entry
-\newcommand{\experienceentry}[5]{%
-    \begin{tabularx}{\linewidth}{@{} X r @{}}
-        \color{myblue} \textbf{#1} & \color{mydarkblue} #2 \\
-        \color{mydarkblue} \textbf{#3} & \color{mydarkblue} #4 \\
-        \begin{minipage}[t]{\linewidth}
-            \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
-                #5
-            \end{itemize}
-        \end{minipage}
-    \end{tabularx}
-    \vspace{10pt}
-}
-
-% Custom section formatting
-\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{2pt}{2pt}
-
-
-% Custom command for entry in coding profiles section
-\newcommand{\codingprofileentry}[2]{%
-    \textcolor{myblue}{#1 :} \quad \textcolor{mydarkblue}{#2}
-}
-% Custom command for entry in coding profiles section
-\newcommand{\codingprofileentry}[2]{%
-    \textcolor{myblue}{#1 :} \quad \textcolor{mydarkblue}{#2}
-}
-% Command for certification entry
-\newcommand{\certificationentry}[2]{%
-    \begin{tabularx}{\linewidth}{@{} l X @{}}
-        \color{myblue} \textbf{#1} & \href{#2}{\uline{}} \\
-    \end{tabularx}
-    \vspace{4pt}
-}
-
-% Command for listing achievements and activities
-\newcommand{\achievements}[1]{%
-    \begin{tabularx}{\linewidth}{@{} X @{}}
-        \color{myblue} \textbf{Achievements} \\
-        \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
-            #1
-        \end{itemize}
-    \end{tabularx}
-    \vspace{-10pt}
-}
-
-% Command for listing achievements and activities
-\newcommand{\activities}[1]{%
-    \begin{tabularx}{\linewidth}{@{} X @{}}
-        \color{myblue} \textbf{Activities} \\
-        \begin{itemize}[nosep, after=\strut, leftmargin=2em, itemsep=2pt]
-            #1
-        \end{itemize}
-    \end{tabularx}
-    \vspace{1pt}
-}
-% Custom section formatting
-\titleformat{\section}{\Large\scshape\color{myblue}\centering}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{2pt}{2pt}
-
-% Custom command for section headers with icon
-\newcommand{\sectionheader}[2]{%
-    \begin{center}
-        \textcolor{myblue}{\Huge #1} \\[6pt]
-        \textcolor{mydarkblue}{\underline{\href{#2}{\raisebox{-0.05\height}{\faGithub} GitHub}} $|$}
-        \textcolor{mydarkblue}{\underline{\href{https://www.linkedin.com/in/deekshith-b-1a09b9297/}{\raisebox{-0.05\height}{\faLinkedin} LinkedIn}}}
-    \end{center}
-}
-\vspace{-8pt}
 \section{Coding Profiles}
-\vspace{5pt}
 \begin{flushleft}
 \begin{tabular}{l l}
     \textbf{Leetcode} \hspace{17pt}\href{https://leetcode.com/u/user5777yx/}{\texttt{:user5777yx (Rating: 1805, 400+ problems)}} & \textbf{Hackerrank} \href{https://www.hackerrank.com/profile/21241A05Z4}{\texttt{:21241A05Z4 (6 Star Rating)}}\vspace{2.5pt} \\
     \textbf{Interviewbit} \href{https://www.interviewbit.com/profile/deekshith-b\_240}{\texttt{:deekshith-b\_240 (Score: 24897+)}} & \textbf{Codechef} \hspace{14pt}\href{https://www.codechef.com/users/deekshith2124}{\texttt{:deekshith2124 (Rating: 1565)}}
 \end{tabular}
-
 \end{flushleft}
 
-\section{ \href{https://certificates7878.glitch.me/}{Certifications}}
-
+\section{\href{https://certificates7878.glitch.me/}{Certifications}}
 \textrm{
-\vspace{-4pt}
-\hspace{0pt}CyberSecurity - Specialization (Coursera) | DevOps - CI/CD (Infosys) | SQL Advanced (HackerRank) | \\[2.5pt] Data Analytics with Python (NPTEL)
-| Google Android Developer Internship (AICTE) | Smart-Coder-Diamond (SmartInterviews) | \\[2.5pt] Software Engineering Intern (HackerRank) | ITN-ENSA-SRWE (Cisco) | NDG Linux Essentials (Cisco).
-
-
-
-
+\hspace{0pt}MERN Full Stack (Infosys) | SAP BTP AI and Automation (Infosys) | DevOps CI/CD (Infosys) | CyberSecurity (Coursera) | \\[2pt]
+SQL Advanced (HackerRank) | Data Analytics with Python (NPTEL) | Android Developer Internship (AICTE) | NDG Linux Essentials (Cisco).
 }
 
-
-\vspace{5pt}
-% Achievements and Activities section
 \section{Achievements and Activities}
-
-\vspace{5pt}
-\begin{itemize}
-\item Maintained \textbf{17+ open-source projects} with \textbf{600+ GitHub contributions}, showcasing expertise in scalable development.\vspace{-5pt}  
-\item \textbf{Solved 200+ deployment issues} by optimizing Android build processes via \textbf{Buildozer}.\vspace{-5pt}  
-\item Developed an \textbf{automated system diagnostics tool} using \textbf{GitHub Actions}, improving performance monitoring.\vspace{-5pt}  
-\item Ranked in \textbf{top 10\% on Leetcode} with \textbf{400+ solved problems}, demonstrating strong \textbf{algorithmic skills}.\vspace{-5pt}  
-
-
+\begin{itemize}[nosep, itemsep=1pt]
+    \item Built and maintain \textbf{30+ open-source projects} (\textbf{600+ GitHub contributions}) across full-stack, Android, and automation.
+    \item Ranked in the \textbf{top 10\% on LeetCode} with \textbf{400+ solved problems}, demonstrating strong algorithmic skills.
+    \item Optimized \textbf{Buildozer/Gradle pipelines} to resolve 200+ Android build issues; built a GitHub Actions system-diagnostics tool.
 \end{itemize}
-\vspace{8pt}
-% Hobbies section
-\section{Hobbies}
-
-\vspace{5pt}
-\begin{itemize}
-\item Developing and maintaining open-source projects, experimenting with AI-driven tools, testing GSIs, and exploring emerging technologies.
-\end{itemize}
-
 
 \end{document}
